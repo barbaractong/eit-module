@@ -28,6 +28,7 @@ theme:
 
 plugins:
   - social
+  - mkdocstrings
 
 extra:
   social:
